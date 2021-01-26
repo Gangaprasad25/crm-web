@@ -20,6 +20,10 @@ public class LoginTest {
 			
 		}
 		driver.quit();
+		
+		String str = String.format("name : %s", "git");
+		
+		
 
 	}
 
